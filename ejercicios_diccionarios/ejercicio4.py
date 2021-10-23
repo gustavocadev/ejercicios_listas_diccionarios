@@ -31,7 +31,7 @@ def calcular_media(total_datos, suma_de_datos):
 estudiantes = {}
 
 # número de estudiantes
-numero_estudiantes = 3
+numero_estudiantes = 10
 # Bucle para pedir datos y agregar datos
 while numero_estudiantes > 0:
 
